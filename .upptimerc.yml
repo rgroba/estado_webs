@@ -8,7 +8,7 @@ sites:
   - name: Formate
     url: https://formate.es
   - name: caido2
-    url: https://10.10.244.248:8094
+    url: http://10.10.244.248:8094
     
 assigness:
   - rgroba
