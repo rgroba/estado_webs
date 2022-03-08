@@ -7,8 +7,6 @@ sites:
     url: https://www.google.com
   - name: Formate
     url: https://formate.es
-  - name: caido2
-    url: oposiciones.formate.es
     
 assigness:
   - rgroba
