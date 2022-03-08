@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 219,
-    "timeDay": 132,
-    "timeWeek": 219,
-    "timeMonth": 219,
-    "timeYear": 219,
+    "time": 217,
+    "timeDay": 146,
+    "timeWeek": 217,
+    "timeMonth": 217,
+    "timeYear": 217,
     "dailyMinutesDown": {}
   },
   {
@@ -28,31 +28,31 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2089,
-    "timeDay": 2013,
-    "timeWeek": 2089,
-    "timeMonth": 2089,
-    "timeYear": 2089,
+    "time": 2058,
+    "timeDay": 1960,
+    "timeWeek": 2058,
+    "timeMonth": 2058,
+    "timeYear": 2058,
     "dailyMinutesDown": {}
   },
   {
     "name": "caido2",
-    "url": "https://10.10.244.248:8094",
+    "url": "http://10.10.244.248:8094",
     "icon": "https://favicons.githubusercontent.com/10.10.244.248",
     "slug": "caido2",
     "status": "down",
-    "uptime": "77.64%",
-    "uptimeDay": "77.64%",
-    "uptimeWeek": "77.64%",
-    "uptimeMonth": "77.64%",
-    "uptimeYear": "77.64%",
+    "uptime": "6.91%",
+    "uptimeDay": "6.91%",
+    "uptimeWeek": "6.91%",
+    "uptimeMonth": "6.91%",
+    "uptimeYear": "6.91%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-03-08": 0
+      "2022-03-08": 7
     }
   }
 ]
