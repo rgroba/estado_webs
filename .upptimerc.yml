@@ -7,7 +7,7 @@ sites:
     url: https://www.google.com
   - name: Formate
     url: https://formate.es
-  - name: caido
+  - name: caido2
     url: https://10.10.244.248:8094
     
 assigness:
