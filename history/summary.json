@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 261,
-    "timeDay": 125,
-    "timeWeek": 261,
-    "timeMonth": 261,
-    "timeYear": 261,
+    "time": 243,
+    "timeDay": 130,
+    "timeWeek": 243,
+    "timeMonth": 243,
+    "timeYear": 243,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,31 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2114,
+    "time": 2096,
     "timeDay": 1967,
-    "timeWeek": 2114,
-    "timeMonth": 2114,
-    "timeYear": 2114,
+    "timeWeek": 2096,
+    "timeMonth": 2096,
+    "timeYear": 2096,
     "dailyMinutesDown": {}
+  },
+  {
+    "name": "caido",
+    "url": "https://formate21.es",
+    "icon": "https://favicons.githubusercontent.com/formate21.es",
+    "slug": "caido",
+    "status": "down",
+    "uptime": "5.66%",
+    "uptimeDay": "5.66%",
+    "uptimeWeek": "5.66%",
+    "uptimeMonth": "5.66%",
+    "uptimeYear": "5.66%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2022-03-08": 0
+    }
   }
 ]
