@@ -11,7 +11,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 192,
-    "timeDay": 133,
+    "timeDay": 109,
     "timeWeek": 192,
     "timeMonth": 192,
     "timeYear": 192,
@@ -22,17 +22,19 @@
     "url": "https://formate.es",
     "icon": "https://favicons.githubusercontent.com/formate.es",
     "slug": "formate",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2068,
-    "timeDay": 2021,
+    "timeDay": 2104,
     "timeWeek": 2068,
     "timeMonth": 2068,
     "timeYear": 2068,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-09": 0
+    }
   }
 ]
