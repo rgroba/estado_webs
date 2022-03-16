@@ -4,18 +4,19 @@
     "url": "https://formate.es",
     "icon": "https://favicons.githubusercontent.com/formate.es",
     "slug": "formate",
-    "status": "up",
-    "uptime": "99.65%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "99.66%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.38%",
-    "uptimeMonth": "99.65%",
-    "uptimeYear": "99.65%",
+    "uptimeMonth": "99.66%",
+    "uptimeYear": "99.66%",
     "time": 2011,
     "timeDay": 1755,
     "timeWeek": 1932,
     "timeMonth": 2011,
     "timeYear": 2011,
     "dailyMinutesDown": {
+      "2022-03-16": 0,
       "2022-03-09": 63
     }
   }
